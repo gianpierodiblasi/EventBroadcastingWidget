@@ -1,6 +1,8 @@
 # EventBroadcastingWidget
 An extension to generate events to be broadcasted.
 
+**This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite and there is no PTC support.**
+
 ## Description
 This extension provides a widget to broadcast events. Sometimes it is necessary send an event from a portion of a mashup to another portion of a mashup (for example two diffent contained mashups within a mashup or a portion of the master mashup). This widget provides an useful tool to perform this task.
 This widget can be configured to behave in two different ways:
